@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0638-shopping-offers) |
+| [0639-decode-ways-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0639-decode-ways-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
+## String
+|  |
+| ------- |
+| [0639-decode-ways-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0639-decode-ways-ii) |
 <!---LeetCode Topics End-->
