@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0638-shopping-offers) |
+| [0641-design-circular-deque](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0641-design-circular-deque) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
@@ -67,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0639-decode-ways-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0639-decode-ways-ii) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0641-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
