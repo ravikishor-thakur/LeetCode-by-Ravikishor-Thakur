@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0645-set-mismatch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3620-network-recovery-pathways) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0645-set-mismatch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0645-set-mismatch) |
 ## Memoization
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
