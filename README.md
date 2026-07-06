@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0638-shopping-offers) |
 | [0639-decode-ways-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0639-decode-ways-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0639-decode-ways-ii) |
+| [0647-palindromic-substrings](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0647-palindromic-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
