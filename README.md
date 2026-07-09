@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0650-2-keys-keyboard) |
 | [1301-number-of-paths-with-max-score](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0650-2-keys-keyboard) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
