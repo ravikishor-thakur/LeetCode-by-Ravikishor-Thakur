@@ -139,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Hash Table
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0648-replace-words) |
+| [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
+## Binary Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
