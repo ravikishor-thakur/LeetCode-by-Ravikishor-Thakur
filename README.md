@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
@@ -151,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0647-palindromic-substrings) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -175,8 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
