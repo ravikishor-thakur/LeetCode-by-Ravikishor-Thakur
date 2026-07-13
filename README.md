@@ -204,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0654-maximum-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
