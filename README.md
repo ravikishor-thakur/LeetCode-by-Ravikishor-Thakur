@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0654-maximum-binary-tree) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1288-remove-covered-intervals](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1331-rank-transform-of-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0649-dota2-senate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1331-rank-transform-of-an-array](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
