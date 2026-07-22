@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0670-maximum-swap) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0670-maximum-swap) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
