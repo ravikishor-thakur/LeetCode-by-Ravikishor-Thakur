@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1260-shift-2d-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1301-number-of-paths-with-max-score) |
