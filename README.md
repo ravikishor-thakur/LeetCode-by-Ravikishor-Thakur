@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0649-dota2-senate) |
+| [0676-implement-magic-dictionary](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0676-implement-magic-dictionary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0676-implement-magic-dictionary) |
 ## Queue
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0672-bulb-switcher-ii) |
+| [0676-implement-magic-dictionary](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0676-implement-magic-dictionary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0676-implement-magic-dictionary](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0676-implement-magic-dictionary) |
 | [1331-rank-transform-of-an-array](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0676-implement-magic-dictionary) |
 ## Prefix Sum
 |  |
 | ------- |
