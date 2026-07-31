@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0679-24-game) |
 | [1260-shift-2d-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1301-number-of-paths-with-max-score) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0679-24-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0672-bulb-switcher-ii) |
+| [0679-24-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0679-24-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3513-number-of-unique-xor-triplets-i) |
