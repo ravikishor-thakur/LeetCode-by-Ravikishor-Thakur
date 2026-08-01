@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0638-shopping-offers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0486-predict-the-winner) |
 | [0638-shopping-offers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0638-shopping-offers) |
 | [0639-decode-ways-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0646-maximum-length-of-pair-chain) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -332,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
