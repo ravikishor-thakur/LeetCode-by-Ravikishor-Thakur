@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1288-remove-covered-intervals) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
