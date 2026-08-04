@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0685-redundant-connection-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0685-redundant-connection-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0685-redundant-connection-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0685-redundant-connection-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
