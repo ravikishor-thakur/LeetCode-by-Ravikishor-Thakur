@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0686-repeated-string-match) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -379,4 +380,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1406-stone-game-iii) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
