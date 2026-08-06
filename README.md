@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0685-redundant-connection-ii) |
+| [0687-longest-univalue-path](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0687-longest-univalue-path) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3310-remove-methods-from-project) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -398,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0686-repeated-string-match) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
