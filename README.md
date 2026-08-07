@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1406-stone-game-iii) |
