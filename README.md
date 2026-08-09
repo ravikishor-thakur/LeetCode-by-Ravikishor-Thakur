@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0682-baseball-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0877-stone-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1260-shift-2d-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0688-knight-probability-in-chessboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0877-stone-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1301-number-of-paths-with-max-score) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
