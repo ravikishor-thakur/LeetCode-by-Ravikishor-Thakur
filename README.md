@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0690-employee-importance](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0690-employee-importance) |
 | [0877-stone-game](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1260-shift-2d-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0690-employee-importance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0690-employee-importance) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3310-remove-methods-from-project) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0690-employee-importance) |
 | [1331-rank-transform-of-an-array](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
