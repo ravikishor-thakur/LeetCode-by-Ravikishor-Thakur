@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0690-employee-importance) |
 | [1331-rank-transform-of-an-array](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3532-path-existence-queries-in-a-graph-i) |
