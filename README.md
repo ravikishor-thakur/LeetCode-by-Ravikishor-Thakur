@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0686-repeated-string-match) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Indexed Tree
 |  |
@@ -443,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
