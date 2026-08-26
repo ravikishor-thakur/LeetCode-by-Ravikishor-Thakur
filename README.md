@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0691-stickers-to-spell-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ravikishor-thakur/LeetCode-by-Ravikishor-Thakur/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Depth-First Search
 |  |
